@@ -3,441 +3,441 @@ entries:
   itms-alarmmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9241817+01:00"
+    created: "2020-03-27T12:15:47.7926263+01:00"
     description: A Helm chart for Kubernetes
     digest: 29dcc24547be6d443532b7a8b1535445a98df8a61e28b920bf8addcf12b2580b
     name: itms-alarmmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-alarmmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-alarmmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-announcementmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9251856+01:00"
+    created: "2020-03-27T12:15:47.793125+01:00"
     description: A Helm chart for Kubernetes
     digest: 3c71307fcdea53d4e8c7386f66bdaf7a805a4455be13bb3ff5482245200ecb9f
     name: itms-announcementmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-announcementmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-announcementmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-apisconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9256847+01:00"
+    created: "2020-03-27T12:15:47.7941269+01:00"
     description: A Helm chart for Kubernetes
     digest: f4716f0e6b3bfdbea6d67adbcd50367c4de2ee11e09cfe6c73403e63ca2bd9d6
     name: itms-apisconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-apisconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-apisconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-dataservice-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9271816+01:00"
+    created: "2020-03-27T12:15:47.7951264+01:00"
     description: A Helm chart for Kubernetes
     digest: c3342cb0ba3ef6a0fade535669e3bd48f52cbbbf2f21f586591472f4d3049fb3
     name: itms-dataservice-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-dataservice-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-dataservice-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-dcsconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9281828+01:00"
+    created: "2020-03-27T12:15:47.7961398+01:00"
     description: A Helm chart for Kubernetes
     digest: 4bd91f0ebec7f771cdaefe068065faa63fe194a3c8511b28e3a3e685222fb981
     name: itms-dcsconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-dcsconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-dcsconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-depotroutemanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9291819+01:00"
+    created: "2020-03-27T12:15:47.7966303+01:00"
     description: A Helm chart for Kubernetes
     digest: 94ef0cd19daabdc687598512aac8a819f348b06106565f605b260e0d51a9cf70
     name: itms-depotroutemanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-depotroutemanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-depotroutemanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-drivermanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9311825+01:00"
+    created: "2020-03-27T12:15:47.7981231+01:00"
     description: A Helm chart for Kubernetes
     digest: 803d49377173ca0ad52aa782e69841f0a5fdf42e02065dcdd2e0091c2f802d6a
     name: itms-drivermanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-drivermanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-drivermanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-eventrecmgr-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9321826+01:00"
+    created: "2020-03-27T12:15:47.7996245+01:00"
     description: A Helm chart for Kubernetes
     digest: 80d14051c9db3dad45b56471ff7fea625cd3d549a3528be9c708dd1596fae5e4
     name: itms-eventrecmgr-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-eventrecmgr-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-eventrecmgr-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-gdpui-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9331825+01:00"
+    created: "2020-03-27T12:15:47.8016363+01:00"
     description: A Helm chart for Kubernetes
     digest: 0efd94017703be3ed339c43606a33a1d6a6629976c85fcc85fca774b98eae634
     name: itms-gdpui-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-gdpui-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-gdpui-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-geolocator-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9356831+01:00"
+    created: "2020-03-27T12:15:47.80263+01:00"
     description: A Helm chart for Kubernetes
     digest: 05c1d1fd006132fcd01d901d2d7867ce4e21795dee9087b3e98eae970e79b999
     name: itms-geolocator-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-geolocator-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-geolocator-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-geoserviceconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9371847+01:00"
+    created: "2020-03-27T12:15:47.8036261+01:00"
     description: A Helm chart for Kubernetes
     digest: f00e434586b659e0989a2a983e1ae1343d8cb7cf39ef1798e8e002c3f2d7433a
     name: itms-geoserviceconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-geoserviceconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-geoserviceconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-hmiconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9381822+01:00"
+    created: "2020-03-27T12:15:47.8046246+01:00"
     description: A Helm chart for Kubernetes
     digest: 3a99957d4a10d392367dcc40319e3a89b11541ebaec73889c3355dbad53f089e
     name: itms-hmiconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-hmiconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-hmiconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-hvnotificationconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9386824+01:00"
+    created: "2020-03-27T12:15:47.8051245+01:00"
     description: A Helm chart for Kubernetes
     digest: 589715e974b62170b1d99405cadd8acf02d3d903254dcf2fd53ae435cbef5f43
     name: itms-hvnotificationconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-hvnotificationconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-hvnotificationconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-hwmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9396826+01:00"
+    created: "2020-03-27T12:15:47.8061272+01:00"
     description: A Helm chart for Kubernetes
     digest: aa77c2327868df12232e646e7bbd1d7ac943d0f8a7edcafcf9c06a56d90e584f
     name: itms-hwmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-hwmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-hwmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-localizationmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9406819+01:00"
+    created: "2020-03-27T12:15:47.8071408+01:00"
     description: A Helm chart for Kubernetes
     digest: b58c5622e12a985e3be9f0e5772b1cb59717a18875cd9afb062ead6046b3574c
     name: itms-localizationmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-localizationmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-localizationmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-mediacontentconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.941686+01:00"
+    created: "2020-03-27T12:15:47.8076272+01:00"
     description: A Helm chart for Kubernetes
     digest: 08e7e0bae1ad802424ae6fb52abb10a67acaff9cd9dbb694ad7c8c89210bb384
     name: itms-mediacontentconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-mediacontentconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-mediacontentconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-motorolaconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9421822+01:00"
+    created: "2020-03-27T12:15:47.8086268+01:00"
     description: A Helm chart for Kubernetes
     digest: d64dded9f55b9f7071e78b05783480af70f7ffae0835411122b1500c8433ccf5
     name: itms-motorolaconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-motorolaconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-motorolaconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-obsconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9431828+01:00"
+    created: "2020-03-27T12:15:47.8096272+01:00"
     description: A Helm chart for Kubernetes
     digest: 91776bb52af36031a189cb3be522d9eb19feae0289558dd21c8f8d4fafb1130b
     name: itms-obsconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-obsconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-obsconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-peeraliasmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9441824+01:00"
+    created: "2020-03-27T12:15:47.8101272+01:00"
     description: A Helm chart for Kubernetes
     digest: 7e00120ca9b293da7d0221c2afc5559ce55cd12272aabb1b1d9bbc21c3a03e72
     name: itms-peeraliasmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-peeraliasmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-peeraliasmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-pmsconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9451827+01:00"
+    created: "2020-03-27T12:15:47.8111268+01:00"
     description: A Helm chart for Kubernetes
     digest: 8e4af3eeaddb20ecd9949d7fc614b7617239c4d5727954eb32a22af27f09be52
     name: itms-pmsconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-pmsconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-pmsconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-predictionmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9461821+01:00"
+    created: "2020-03-27T12:15:47.8121266+01:00"
     description: A Helm chart for Kubernetes
     digest: 7e2b51ab7446531901ffddbc1596433ae598f0c62201cb54026fcb4b43cf696c
     name: itms-predictionmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-predictionmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-predictionmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-psmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9471828+01:00"
+    created: "2020-03-27T12:15:47.8131241+01:00"
     description: A Helm chart for Kubernetes
     digest: f4f1cc93300975efdfd0588fec1d85deefe86d84ed60d05dd1b2a27f7afd776c
     name: itms-psmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-psmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-psmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-qosmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9491829+01:00"
+    created: "2020-03-27T12:15:47.814624+01:00"
     description: A Helm chart for Kubernetes
     digest: 0e533823d717d9ff2d0f0c5644fdf29d4dba292fb65e79118608d4b75f4c6823
     name: itms-qosmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-qosmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-qosmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-regulationmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9516828+01:00"
+    created: "2020-03-27T12:15:47.8171235+01:00"
     description: A Helm chart for Kubernetes
     digest: ed1c5eabae0780e8aec6b1fc5b62743e70d2eec3dd4c35440e3086ff63ff1883
     name: itms-regulationmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-regulationmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-regulationmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-reportengine-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9531829+01:00"
+    created: "2020-03-27T12:15:47.8191249+01:00"
     description: A Helm chart for Kubernetes
     digest: f5c96eeaa284de4c38aab8464034611aa7a6d416149d2e60ecc939e05ef60bbc
     name: itms-reportengine-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-reportengine-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-reportengine-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-resourcestatusmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9546842+01:00"
+    created: "2020-03-27T12:15:47.8206258+01:00"
     description: A Helm chart for Kubernetes
     digest: 9fe662fa2e67d825aa9c72af98b147d5ff2bf8dfee988b489b5628b1b9c2ab05
     name: itms-resourcestatusmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-resourcestatusmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-resourcestatusmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-routemanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9561831+01:00"
+    created: "2020-03-27T12:15:47.8221264+01:00"
     description: A Helm chart for Kubernetes
     digest: ed25d0b69e959393a75c998a7c1077a7e68a6e3a30d39eceb1af72f0531f7e23
     name: itms-routemanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-routemanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-routemanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-schematictracklayout-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9571824+01:00"
+    created: "2020-03-27T12:15:47.8231265+01:00"
     description: A Helm chart for Kubernetes
     digest: 31ab1cb553b38ccb3b44b2e1735b1dbe0c00b92182e99baef3250d01541aa353
     name: itms-schematictracklayout-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-schematictracklayout-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-schematictracklayout-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-sheltermanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9581825+01:00"
+    created: "2020-03-27T12:15:47.8236308+01:00"
     description: A Helm chart for Kubernetes
     digest: f5f88d3518e800fd23322f54d50a114aaeb39d8ac63e4b25682a8deddf7dad90
     name: itms-sheltermanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-sheltermanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-sheltermanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-simfleetconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9591807+01:00"
+    created: "2020-03-27T12:15:47.8246267+01:00"
     description: A Helm chart for Kubernetes
     digest: 796f6b673f83f7022e78738f45ce8b438fe3eb7579737d47406bfc8b3b3aa2ed
     name: itms-simfleetconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-simfleetconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-simfleetconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-timetableimporter-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9601816+01:00"
+    created: "2020-03-27T12:15:47.8251267+01:00"
     description: A Helm chart for Kubernetes
     digest: 420f04636b77e300b23705eb82ca5db96e0bee70a211fe6a23f33f481a175853
     name: itms-timetableimporter-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-timetableimporter-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-timetableimporter-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-timetablemanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9606811+01:00"
+    created: "2020-03-27T12:15:47.8266264+01:00"
     description: A Helm chart for Kubernetes
     digest: 2be9ccfe8e5606891e2fbda16d10b5d7cdde022feed4b6b0cf8d2743a79a1784
     name: itms-timetablemanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-timetablemanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-timetablemanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-tlmsconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9621843+01:00"
+    created: "2020-03-27T12:15:47.8281252+01:00"
     description: A Helm chart for Kubernetes
     digest: 3c99de0d497ee0283d1e607349c258f1fc15de9f817fc1c40d4b0daea1c047aa
     name: itms-tlmsconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-tlmsconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-tlmsconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-traindistancemanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9631827+01:00"
+    created: "2020-03-27T12:15:47.8291329+01:00"
     description: A Helm chart for Kubernetes
     digest: 2dd35842eeb08fe16cf2088439543d336f1d40491954ba27fc6ea323847ab0af
     name: itms-traindistancemanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-traindistancemanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-traindistancemanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-trainmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9651811+01:00"
+    created: "2020-03-27T12:15:47.8306277+01:00"
     description: A Helm chart for Kubernetes
     digest: a4caeb77347b2aefc3ae961ff91acdabc0401ce14faaad690ad5cad01f31937f
     name: itms-trainmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-trainmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-trainmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-ucsconnector-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9661829+01:00"
+    created: "2020-03-27T12:15:47.8316277+01:00"
     description: A Helm chart for Kubernetes
     digest: ea2a2e3d98764ff8e5405e7a0c25f49203df3dfce03df9ed750d0626d7eef3dd
     name: itms-ucsconnector-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-ucsconnector-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-ucsconnector-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-useradmin-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.970684+01:00"
+    created: "2020-03-27T12:15:47.8331276+01:00"
     description: A Helm chart for Kubernetes
     digest: 02475b5693ab2996e56929be9b71239e022bc1c07f93f5b38325e0c0813cbff8
     name: itms-useradmin-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-useradmin-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-useradmin-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-versioningmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9721872+01:00"
+    created: "2020-03-27T12:15:47.835626+01:00"
     description: A Helm chart for Kubernetes
     digest: 61c961290d6a4607978f668cf4ca8b2c23975910bf470df9a84463b6f947d7a1
     name: itms-versioningmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-versioningmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-versioningmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-voicecallmanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9731806+01:00"
+    created: "2020-03-27T12:15:47.8366279+01:00"
     description: A Helm chart for Kubernetes
     digest: e1919ce6a4b6d2f66ec171f2cf7e573b874495550cab1844f626489b162830cb
     name: itms-voicecallmanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-voicecallmanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-voicecallmanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
   itms-waysidemanager-bundle:
   - apiVersion: v2
     appVersion: 4.0.0-0
-    created: "2020-03-27T12:05:15.9741832+01:00"
+    created: "2020-03-27T12:15:47.8376249+01:00"
     description: A Helm chart for Kubernetes
     digest: f1353d8c288fcfd2164dc9006c17f47e0e194d0efa9a4549c5227454217d30f7
     name: itms-waysidemanager-bundle
     type: application
     urls:
-    - https://github.com/feder89/itms_danhai/charts/itms-waysidemanager-bundle-4.0.0-0.tgz
+    - https://github.com/feder89/itms_danhai.git/charts/itms-waysidemanager-bundle-4.0.0-0.tgz
     version: 4.0.0-0
-generated: "2020-03-27T12:05:15.9226816+01:00"
+generated: "2020-03-27T12:15:47.7911266+01:00"
